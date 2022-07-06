@@ -1,0 +1,32 @@
+h1 {
+    background-color: paleturquoise;
+    border: 1px solid black;
+    width: 300px;
+    padding: 50px;
+    margin: 100px;
+    display: none;
+} 
+
+/*span {
+    background-color: paleyellow;
+    border: 1px solid black;
+    display: block;
+} */
+
+span {
+    background-color: palevioletred;
+    border: 1px solid black;
+    width: 500px;
+    padding: 10px;
+    margin: 50px;
+}
+
+div {
+    background-color: saddlebrown;
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 50px;
+}
+
